@@ -2,7 +2,7 @@
 
 **Sistemes Encastats i Ubics (SEU) · Treball dirigit 2026-27 · Proposta de disseny**
 
-Grup: [Nom 1], [Nom 2], [Nom 3], [Nom 4]
+Grup: Abel Gallardo, Adrià Galdon, Albert Casamitjana
 
 Proposem un sistema de control d'accés per a un edifici amb diverses portes. Cada porta és un node encastat amb lector RFID, i tots els nodes es comuniquen amb un node central per bus CAN amb protocol CANopen. Farem el treball **teòric**: proposta, memòria de disseny i defensa, sense prototip.
 
